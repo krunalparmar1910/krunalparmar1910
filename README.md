@@ -10,7 +10,7 @@ Specialized in building high-performance, scalable backend systems using Java, S
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/krunal-parmar-99202521b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krunalpamar18903@gmail.com)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krunalparmar1910&show_icons=true)
 
 ---
 
