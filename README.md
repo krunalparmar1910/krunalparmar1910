@@ -9,14 +9,6 @@ Specialized in building high-performance, scalable backend systems using Java, S
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/krunal-parmar-99202521b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krunalpamar18903@gmail.com)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krunalparmar1910&show_icons=true)
-
----
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/krunal-parmar-99202521b
-
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -45,4 +37,6 @@ Specialized in building high-performance, scalable backend systems using Java, S
 ---
 [![](https://visitcount.itsvg.in/api?id=krunalparmar1910&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/krunal-parmar-99202521b
+- Email : krunalparmar18903@gmail.com
